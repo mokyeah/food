@@ -8,7 +8,7 @@ function App() {
         <div className="bg-white p-5">
           <div classname="text-md font-seimifold">Nasi Lemak</div>
           <div>
-            by<span classname="font-semifold">me</span>
+            by<span classname="font-semifold">you</span>
           </div>
         </div>
       </div>
