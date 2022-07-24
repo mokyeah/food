@@ -35,9 +35,9 @@ function App() {
                 </div>
 
               </div>
-              <div className='p-2 md:p-3 rounded-xl absolute right-3 bottom-3 w-min bg-red-300 hover:animate-bounce transition-all'>
+              <a className='p-2 md:p-3 rounded-xl absolute right-3 bottom-3 w-min bg-red-300 hover:animate-bounce transition-all' href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                 <Icon className="w-5 h-6 md:w-6 h-6" icon="fa-solid:cart-arrow-down" />
-              </div>
+              </a>
               
             </div>
             
