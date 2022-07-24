@@ -6,16 +6,16 @@ function App() {
       <div className="rounded-xl overflow-hidden">
         <img src={food} className="w-96" />
         <div className="bg-white p-5">
-          <div classname="text-md font-seimifold">Nasi Lemak</div>
+          <div classname="text-md font-seimifold">yummy<strong> Nasi Lemak</strong></div>
           <div>
-            by<span classname="font-semifold"> me</span>
-            <div className="text-md font-semifold"> Its yummy
+            by<span classname="font-semifold"><strong> me</strong></span>
+           
 
             </div>
           </div>
         </div>
       </div>
-    </div>
+    
   );
 }
 
