@@ -24,14 +24,14 @@ function App() {
                     <div>
                       <Icon
                         icon="eva:star-fill"
-                        className="text-yellow-300 w-4 h-4 mt-1 ">
-                      </Icon>
+                        className="text-yellow-300 w-4 h-4 mt-1">
+                      </Icon> 
 
                     </div>
 
 
                   ))}
-                <div className='ml-2'><strong>(5)</strong>
+                <div className='mt-2 '><strong>(5)</strong>
                 </div>
 
               </div>
