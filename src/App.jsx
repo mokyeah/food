@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="bg-gradient-to-br from-green-300 flex justify-center items-center w-full h-screen ">
       <div className="rounded-xl overflow-hidden">
-        <img src={food} className="w-64 md:w-96 " />
         <div className="bg-white p-5 relative">
           <div classname="text-md font-seimifold">yummy<strong> Nasi Lemak</strong></div>
           <div>
